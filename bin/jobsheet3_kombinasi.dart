@@ -1,5 +1,6 @@
 import 'package:jobsheet3_kombinasi/jobsheet3_kombinasi.dart' as jobsheet3_kombinasi;
 
-void main(List<String> arguments) {
-  print('Hello world: ${jobsheet3_kombinasi.calculate()}!');
+void main() {
+  int angka = 17;
+  print('Angka yang dicek: $angka');
 }
