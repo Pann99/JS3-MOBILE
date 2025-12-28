@@ -14,4 +14,10 @@ void main() {
       }
     }
   }
+
+  if (isPrima) {
+    print('$angka adalah bilangan prima');
+  } else {
+    print('$angka bukan bilangan prima');
+  }
 }
